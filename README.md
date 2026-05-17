@@ -29,8 +29,8 @@ This isn't a platform. It's a tool. And it embodies the only engineering princip
 
 ## Install
 
-1.  Install Tampermonkey
-2.  Click here to install the script
+1. Install [Tampermonkey](https://www.tampermonkey.net/)
+2. Click [this link](https://raw.githubusercontent.com/whitecell-dev/Leetcode-Token-Golf/main/leetcode-token-golf.user.js)
 3.  Visit any LeetCode problem page
 4.  Click the Settings icon to add your API key (Gemini is free)
 5.  Start coding
